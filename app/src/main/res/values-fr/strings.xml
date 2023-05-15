@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Générateur CL</string>
+    <string name="hint_contact_name">Nom du contact</string>
+    <string name="hint_contact_number">Numéro de contact</string>
+    <string name="hint_my_display_name">Mon nom d\'affichage</string>
+    <string name="checkbox_inlcude_junior">Inlcude \"Junior</string>
+    <string name="checkbox_imidiate_start">Démarrage immédiat</string>
+    <string name="hint_start_date">Date de début</string>
+    <string name="button_preview_message">Message de prévisualisation</string>
+    <string name="button_send_message">Envoyer un message</string>
+    <string name="text_jobs_1">Développeur Backend</string>
+    <string name="text_jobs_2">Développeur Frontend</string>
+    <string name="text_jobs_3">Chef de projet</string>
+    <string name="text_jobs_4">Développeur d\'applications</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CLジェネレーター</string>
+    <string name="hint_contact_name">連絡先</string>
+    <string name="hint_contact_number">お問い合わせ番号</string>
+    <string name="hint_my_display_name">私の表示名</string>
+    <string name="checkbox_inlcude_junior">ジュニア」を含む。</string>
+    <string name="checkbox_imidiate_start">イミディエイトスタート</string>
+    <string name="hint_start_date">開始日</string>
+    <string name="button_preview_message">プレビューメッセージ</string>
+    <string name="button_send_message">メッセージの送信</string>
+    <string name="text_jobs_1">バックエンドデベロッパー</string>
+    <string name="text_jobs_2">フロントエンドデベロッパー</string>
+    <string name="text_jobs_3">プロジェクトマネージャー</string>
+    <string name="text_jobs_4">アプリ開発者</string>
+</resources>
